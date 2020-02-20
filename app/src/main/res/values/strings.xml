@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Week3_2</string>
+    <!--หน้าแรก-->
+    <string name="tv_name">ชื่อ</string>
+    <string name="tv_lastname">นามสกุล</string>
+    <string name="tv_age">อายุ</string>
+    <string name="tv_Address">ที่อยู่</string>
+    <string name="tv_Number">เลขที่</string>
+
+
+
+    <string name="btn_sender">บันทึกข้อมูล</string>
+    <string name="btn_clear">ล้างข้อมูล</string>
+    <string name="btn_back">ยืนยันสำเร็จ</string>
+
+    <string name="tv_header1">หน้าแรก</string>
+    <string name="tv_header2">หน้าสอง</string>
+    <string name="tv_header3">หน้าสาม</string>
+
+</resources>
